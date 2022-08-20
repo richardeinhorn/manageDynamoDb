@@ -1,5 +1,6 @@
-# manageDynamoDb
+# Uitlities for AWS DynamoDB
 
----
+Helpful Javascript snippets to manage an AWS DynamoDB instance 💾
 
-Programmatically import data from local .csv file into AWS DynamoDB.
+**Features:**
+- [x] Programmatically import data from local .csv file into AWS DynamoDB.
